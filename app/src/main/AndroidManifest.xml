@@ -19,8 +19,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LoadingScreen"
-            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+        <activity
+            android:name=".LoadingScreen"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+
+        <service
+            android:name=".SearchService"
+            android:exported="false" />
+        <service
+            android:name=".SearchService2"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
 
 </manifest>

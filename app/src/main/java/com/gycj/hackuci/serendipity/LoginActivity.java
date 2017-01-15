@@ -19,9 +19,9 @@ public class LoginActivity extends AppCompatActivity {
     private static final int REQUEST_SIGNUP = 0;
 
     @InjectView(R.id.input_email) EditText _emailText;
-    @InjectView(R.id.input_password) EditText _passwordText;
+    //@InjectView(R.id.input_password) EditText _passwordText;
     @InjectView(R.id.btn_login) Button _loginButton;
-    @InjectView(R.id.link_signup) TextView _signupLink;
+    //@InjectView(R.id.link_signup) TextView _signupLink;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -37,6 +37,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
+        /*
         _signupLink.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -45,17 +46,17 @@ public class LoginActivity extends AppCompatActivity {
                 Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
                 startActivityForResult(intent, REQUEST_SIGNUP);
             }
-        });
+        }); */
     }
 
     public void login() {
         Log.d(TAG, "Login");
-
+        /*
         if (!validate()) {
             onLoginFailed();
             return;
         }
-
+        */
         _loginButton.setEnabled(false);
     /*
         final ProgressDialog progressDialog = new ProgressDialog(LoginActivity.this,
@@ -65,7 +66,7 @@ public class LoginActivity extends AppCompatActivity {
         progressDialog.show();
     */
         String email = _emailText.getText().toString();
-        String password = _passwordText.getText().toString();
+       // String password = _passwordText.getText().toString();
 
         // TODO: Implement your own authentication logic here.
 
@@ -92,20 +93,20 @@ public class LoginActivity extends AppCompatActivity {
             }
         }
     }
-
+    /*
     @Override
     public void onBackPressed() {
         // disable going back to the MainActivity
         moveTaskToBack(true);
     }
-
+    */
     public void onLoginSuccess() {
         _loginButton.setEnabled(true);
         Intent i = new Intent(getApplicationContext(),LoadingScreen.class);
         startActivity(i);
 
     }
-
+/*
     public void onLoginFailed() {
         Toast.makeText(getBaseContext(), "Login failed", Toast.LENGTH_LONG).show();
 
@@ -133,5 +134,5 @@ public class LoginActivity extends AppCompatActivity {
         }
 
         return valid;
-    }
+    }*/
 }
