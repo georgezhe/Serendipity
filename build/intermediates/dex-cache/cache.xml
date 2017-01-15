@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_fbd1308490bb4587d274babe77e054f9d02a5749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_8b8c483d9114fdc76c934762ed36a19b1474c403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_f1e4b1d21f796aa3b41f59f0c36a87582894d46d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d75cee1ab4774360290a17c3ea84530dfa0a460f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_cc453ef0ffa7ff98d53fea1f6348dda7c65c04c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_415a680ef0a75756637bfdc7c7b441c8787e9364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_bf79c8187e36368ac9feba2b92bf3273f9daade1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_d71b657a3682fc0dcdce74a76cab20a99c8b264b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-core\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="48a90db38d32b4164a220e0852b8018e8cf559ce">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.quickblox-quickblox-android-sdk-core-3.2.0_ec9954a4eda6a837bdb1c81b70899a814c0791be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_75c490af4163278bc0a91788e03abee5cd766ca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-util-cache\0.4.2\4aa590f2a44d49444dcd3bb082017bf0b46f2ff7\jxmpp-util-cache-0.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-util-cache-0.4.2_eaae6d2bda1042ae0953b1000b946b69fc799313\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_03df2c8037e43b880d550287e66b318bf97fb9f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_cb0927970c2b5d75c34bcb9e837331262ac91f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\.gradle\caches\modules-2\files-2.1\de.measite.minidns\minidns\0.1.7\993582d1455b93a5723d2af4b39d8679735b3550\minidns-0.1.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\minidns-0.1.7_3d0ad8c89dc9642f8a93750ba7f20312de8e5290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_e5297b8f54879d62b62b27b7c6b3a3a2283fb17a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3cf0d643b812ddad40f8149d9a5bdaecc53c2c74">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0386f6b99fb525b2267a09bc2b3e4b8ce6e51b42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_54b389bde902380bc5a980dd5cb351a2fc75abd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.quickblox\quickblox-android-sdk-chat\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b8abee3ad7d50554df568931ae57f4ceca90fe7f">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.quickblox-quickblox-android-sdk-chat-3.2.0_d207c3fa70fb304ace17ef7ff443c60f15256808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_fd8182f4bc3d51dabcbfb1412ac2ada1c00d9545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e24b50e1c00f2740977f61ad7380705a350fd1d">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1cc7f549eb54187fe17311c88ecc7a28bfee4772\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-core\0.4.2\a4c8ce09be6ec90479be74290e381de4288c9569\jxmpp-core-0.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\jxmpp-core-0.4.2_774bf3f064fd024ef032cdc70adc5afe26977cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_185cd070a14da89c26c9ec0a4e75ebb9efb675f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_e9aa2b2043dcfee137cf0bab267e1640f7f464ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\butnik\Documents\Android Studios\serendipity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_0ca4392909371d1643ba009d28b6e94a15e4691b\classes.dex" />
+    </item>
+
+</items>
